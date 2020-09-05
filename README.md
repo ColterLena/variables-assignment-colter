@@ -1,5 +1,5 @@
-# variables_assignment_colter
-# Let's get started
+# Variables Assignment: A C# and .NET Exercise
+## Let's get started
 
 Today, we are starting our journey into development. This journey has to start somewhere. For this assignment, you will be making a program that demonstrates some programming fundamentals. 
 
